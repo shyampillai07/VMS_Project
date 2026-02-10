@@ -144,4 +144,10 @@ This project is developed as part of the **C Programming Case Study** for **MCA 
 **Confidentiality Notice:**
 This software is a simulated prototype created solely for academic case study evaluation and does not represent an official election system.
 
+## License
+
+This project is licensed under the MIT License.
+
+
+
 
