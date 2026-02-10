@@ -73,15 +73,15 @@ The system provides a reliable solution for managing voter records, enforcing ag
 #### Windows (Command Prompt / PowerShell)
 
 ```bash
-gcc vms_final.c -o vms_final.exe
+gcc vms.c -o vms.exe
 vms_final.exe
 ```
 
 #### Linux / macOS (Terminal)
 
 ```bash
-gcc vms_final.c -o vms_final
-./vms_final
+gcc vms.c -o vms
+./vms
 ```
 
 
@@ -143,3 +143,4 @@ This project is developed as part of the **C Programming Case Study** for **MCA 
 
 **Confidentiality Notice:**
 This software is a simulated prototype created solely for academic case study evaluation and does not represent an official election system.
+
