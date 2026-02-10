@@ -9,7 +9,6 @@
 **Organization (Case Study):** Karnataka State Election Commission (SEC)
 **Programming Language:** C (Standard C99/C11)
 
----
 
 ## 1. Project Overview
 
@@ -19,7 +18,6 @@ The project simulates a real-world voter registration and election data manageme
 
 The system provides a reliable solution for managing voter records, enforcing age eligibility rules, preventing duplicate voting, and generating election-related statistics using persistent CSV-based storage.
 
----
 
 ## 2. Key Features
 
@@ -41,7 +39,6 @@ The system provides a reliable solution for managing voter records, enforcing ag
 * **Polling Station Mode:** Marks voters as *Voted* and prevents multiple voting attempts.
 * **Administrative Controls:** Supports database reset and individual record deletion.
 
----
 
 ## 3. Technical Specifications
 
@@ -63,7 +60,6 @@ The system provides a reliable solution for managing voter records, enforcing ag
 * **Analytics Computation:** O(N)
 * **Record Insertion:** O(1)
 
----
 
 ## 4. Installation and Execution
 
@@ -88,7 +84,6 @@ gcc vms_final.c -o vms_final
 ./vms_final
 ```
 
----
 
 ## 5. Usage Guide
 
@@ -109,7 +104,6 @@ When the application starts, it automatically loads existing voter data from `se
 5. **Reset Database**
    Deletes all voter records permanently. Intended for administrative or testing purposes only.
 
----
 
 ## 6. Project Structure
 
@@ -122,7 +116,6 @@ When the application starts, it automatically loads existing voter data from `se
 └── vms.exe              # Compiled executable (Windows)
 ```
 
----
 
 ## 7. Learning Outcomes
 
@@ -134,7 +127,6 @@ This case study demonstrates practical application of:
 * Modular program design
 * Real-world system simulation using CLI
 
----
 
 ## 8. Future Enhancements
 
@@ -143,15 +135,11 @@ This case study demonstrates practical application of:
 * Integration with a SQL-based backend for large-scale voter data
 * Role-based access control for administrative functions
 
----
 
 ## 9. Academic Declaration
 
 This project is developed as part of the **C Programming Case Study** for **MCA 1st Semester** at **VTU CPGS, Mysuru**, and is intended strictly for academic and educational purposes.
 
----
 
 **Confidentiality Notice:**
 This software is a simulated prototype created solely for academic case study evaluation and does not represent an official election system.
-
----
