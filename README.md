@@ -1,12 +1,12 @@
 
 # Karnataka State Voter Management System (VMS)
 
-**Version:** 3.0 (Stable)
-**Author:** Shyam Pillai
-**Course:** MCA – 1st Semester
-**Case Study:** C Programming Case Study
-**Institution:** VTU CPGS, Mysuru
-**Organization (Case Study):** Karnataka State Election Commission (SEC)
+**Version:** 1.0 <br>
+**Author:** Shyam Pillai <br>
+**Course:** MCA – 1st Semester <br>
+**Case Study:** C Programming Case Study <br>
+**Institution:** VTU CPGS, Mysuru <br>
+**Organization (Case Study):** Karnataka State Election Commission (SEC) <br>
 **Programming Language:** C (Standard C99/C11)
 
 
@@ -143,4 +143,5 @@ This project is developed as part of the **C Programming Case Study** for **MCA 
 
 **Confidentiality Notice:**
 This software is a simulated prototype created solely for academic case study evaluation and does not represent an official election system.
+
 
