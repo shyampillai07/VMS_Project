@@ -74,7 +74,7 @@ The system provides a reliable solution for managing voter records, enforcing ag
 
 ```bash
 gcc vms.c -o vms.exe
-vms_final.exe
+vms.exe
 ```
 
 #### Linux / macOS (Terminal)
