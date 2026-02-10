@@ -147,7 +147,3 @@ This software is a simulated prototype created solely for academic case study ev
 ## License
 
 This project is licensed under the MIT License.
-
-
-
-

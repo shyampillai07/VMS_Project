@@ -1,6 +1,6 @@
 /**
  * PROJECT: KARNATAKA STATE VOTER MANAGEMENT SYSTEM
- * VERSION: 3.0 
+ * VERSION: 1.0 
  * AUTHOR: Shyam Pillai
  * DESCRIPTION: Handles Voter Registration, Bulk Data Generation, and Analytics.
  */
@@ -39,9 +39,9 @@ int totalRecords = 0;
 // ====================================================
 // Core Operations
 void registerVoter();
-void generateBulkData();     // <--- NEW: Generates 250+ records
+void generateBulkData();     
 void removeVoter();
-void resetDatabase();        // <--- NEW: Bulk Delete
+void resetDatabase();        
 void searchVoter();
 void viewAllVoters();
 void castVote();
@@ -339,7 +339,7 @@ void loadDatabase() {
     if (!fp) return;
     char buffer[512];
     totalRecords = 0;
-    fgets(buffer, 512, fp); // Skip Header
+    fgets(buffer, 512, fp); // Skip header
     while (fgets(buffer, 512, fp)) {
         Voter v;
         sscanf(buffer, "%[^,],%[^,],%[^,],%[^,],%[^,],%[^,],%d,%d\n", 
