@@ -1,0 +1,26 @@
+ID,Name,Father,Gender,DOB,Address,Age,Voted
+KA-SEC-1001,Priya Patil,Mohan Nair,Male,16/10/1977,#681,1,0
+KA-SEC-1002,Rahul Bhat,Shiv Kumar,Female,16/12/1960,#350,1,0
+KA-SEC-1003,Sneha Patil,Ram Gowda,Male,07/02/1996,#501,1,0
+KA-SEC-1004,Sneha Shetty,Ram Shetty,Male,04/05/1962,#778,1,0
+KA-SEC-1005,Karthik Shetty,Govind Hegde,Male,12/08/2002,#53,1,0
+KA-SEC-1006,Suresh Bhat,Shiv Kumar,Female,22/12/1946,#303,1,0
+KA-SEC-1007,Ganesh Hegde,Narayan Nair,Female,20/09/1947,#176,1,0
+KA-SEC-1008,Ganesh Bhat,Ram Shetty,Male,18/10/1951,#193,1,0
+KA-SEC-1009,Sneha Kumar,Narayan Patil,Female,21/02/1957,#573,1,0
+KA-SEC-1010,Sneha Kumar,Mohan Gowda,Male,01/12/2004,#899,1,0
+KA-SEC-1011,Sneha Bhat,Ram Kumar,Male,09/06/1983,#656,1,0
+KA-SEC-1012,Karthik Bhat,Shankar Hegde,Male,02/08/1973,#60,1,0
+KA-SEC-1013,Ramesh Rao,Govind Kumar,Female,23/12/1945,#215,1,0
+KA-SEC-1014,Lakshmi Gowda,Shiv Rao,Female,26/08/2003,#264,1,0
+KA-SEC-1015,Rahul Kumar,Ram Patil,Female,01/09/1946,#675,1,0
+KA-SEC-1016,Aditi Kumar,Shiv Shetty,Female,24/07/1982,#32,1,0
+KA-SEC-1017,Priya Bhat,Shankar Bhat,Female,28/02/1949,#138,1,0
+KA-SEC-1018,Aditi Shetty,Mohan Bhat,Female,07/02/1988,#549,1,0
+KA-SEC-1019,Suresh Kumar,Mohan Rao,Female,05/05/1955,#752,1,0
+KA-SEC-1020,Anil Kumar,Ram Bhat,Male,18/01/1967,#78,1,0
+KA-SEC-1021,Aditi Gowda,Shankar Shetty,Female,10/11/1949,#840,1,0
+KA-SEC-1022,Sneha Kumar,Govind Kumar,Female,10/03/1992,#676,1,0
+KA-SEC-1023,Lakshmi Kumar,Krishna Kumar,Male,10/05/1972,#692,1,0
+KA-SEC-1024,Sneha Reddy,Venkatesh Hegde,Female,25/04/1984,#180,1,0
+KA-SEC-1025,Ramesh Deshpande,Govind Kumar,Female,05/05/1952,#822,1,0
